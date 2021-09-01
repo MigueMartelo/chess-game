@@ -18,4 +18,12 @@ $ npm run start
 
 # production mode
 $ npm run build
+
+# linter
+$ npm run lint
+
+$ npm run lint:fix
+
+# format
+$ npm run format
 ```
